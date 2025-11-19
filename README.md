@@ -1,1 +1,0 @@
-# android-walk-cycle-anim
