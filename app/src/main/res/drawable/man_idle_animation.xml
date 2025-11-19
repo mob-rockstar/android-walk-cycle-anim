@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/man_stand_1" android:duration="300" />
+    <item android:drawable="@drawable/man_stand_2" android:duration="300" />
+
+</animation-list>
